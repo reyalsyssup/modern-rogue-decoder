@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/modern-rogue-decoder/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/modern-rogue-decoder/static/js/main.c3fbf5bf.chunk.js",
+    "main.js.map": "/modern-rogue-decoder/static/js/main.c3fbf5bf.chunk.js.map",
+    "runtime-main.js": "/modern-rogue-decoder/static/js/runtime-main.7e04e378.js",
+    "runtime-main.js.map": "/modern-rogue-decoder/static/js/runtime-main.7e04e378.js.map",
+    "static/js/2.5c37f541.chunk.js": "/modern-rogue-decoder/static/js/2.5c37f541.chunk.js",
+    "static/js/2.5c37f541.chunk.js.map": "/modern-rogue-decoder/static/js/2.5c37f541.chunk.js.map",
+    "static/js/3.e1669cdd.chunk.js": "/modern-rogue-decoder/static/js/3.e1669cdd.chunk.js",
+    "static/js/3.e1669cdd.chunk.js.map": "/modern-rogue-decoder/static/js/3.e1669cdd.chunk.js.map",
+    "index.html": "/modern-rogue-decoder/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/modern-rogue-decoder/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.5c37f541.chunk.js.LICENSE.txt": "/modern-rogue-decoder/static/js/2.5c37f541.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e04e378.js",
+    "static/js/2.5c37f541.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.c3fbf5bf.chunk.js"
+  ]
+}
